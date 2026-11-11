@@ -10,7 +10,7 @@
     "@atlaskit/icon": "^11.0.1",
     "@atlaskit/modal-dialog": "^11.2.5",
     "@atlaskit/spinner": "^15.0.6",
-    "@atlaskit/tooltip": "^17.1.2",
+    "@atlaskit/tooltip": "^24.4.3",
     "@babel/runtime": "^7.12.0",
     "@emotion/react": "^11.8.1",
     "@magical-types/convert-type": "^0.1.4",
